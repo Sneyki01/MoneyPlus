@@ -91,8 +91,6 @@ Practicando buenas prácticas de programación, modularidad y experiencia de usu
 - Validación de entradas más robusta
 - Soporte para más monedas
 - Guardar historial con fecha y hora
-- Versión con interfaz gráfica (Swing o JavaFX)
-- Tests unitarios con JUnit
 
 ---
 
